@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E989D-E365-4EF6-8D92-CA1B4853DE35}|DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL.csproj|c:\\users\\lehie\\pictures\\doanquanlykhachsanltql\\doanquanlykhachsanltql\\report\\rptthongkedoanhthutheothang.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{EA3E989D-E365-4EF6-8D92-CA1B4853DE35}|DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL.csproj|solutionrelative:doanquanlykhachsanltql\\report\\rptthongkedoanhthutheothang.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E989D-E365-4EF6-8D92-CA1B4853DE35}|DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL.csproj|c:\\users\\lehie\\pictures\\doanquanlykhachsanltql\\doanquanlykhachsanltql\\report\\frmbieudodoanhthutheothang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA3E989D-E365-4EF6-8D92-CA1B4853DE35}|DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL.csproj|solutionrelative:doanquanlykhachsanltql\\report\\frmbieudodoanhthutheothang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E989D-E365-4EF6-8D92-CA1B4853DE35}|DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL.csproj|c:\\users\\lehie\\pictures\\doanquanlykhachsanltql\\doanquanlykhachsanltql\\formgui\\frmbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E989D-E365-4EF6-8D92-CA1B4853DE35}|DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL.csproj|solutionrelative:doanquanlykhachsanltql\\formgui\\frmbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E989D-E365-4EF6-8D92-CA1B4853DE35}|DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL.csproj|c:\\users\\lehie\\pictures\\doanquanlykhachsanltql\\doanquanlykhachsanltql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E989D-E365-4EF6-8D92-CA1B4853DE35}|DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL.csproj|solutionrelative:doanquanlykhachsanltql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E989D-E365-4EF6-8D92-CA1B4853DE35}|DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL.csproj|C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\doanquanlykhachsanltql\\formgui\\frmbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA3E989D-E365-4EF6-8D92-CA1B4853DE35}|DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL.csproj|solutionrelative:doanquanlykhachsanltql\\formgui\\frmbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E989D-E365-4EF6-8D92-CA1B4853DE35}|DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL.csproj|c:\\users\\lehie\\pictures\\doanquanlykhachsanltql\\doanquanlykhachsanltql\\data\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E989D-E365-4EF6-8D92-CA1B4853DE35}|DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL.csproj|solutionrelative:doanquanlykhachsanltql\\data\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E989D-E365-4EF6-8D92-CA1B4853DE35}|DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL.csproj|c:\\users\\lehie\\pictures\\doanquanlykhachsanltql\\doanquanlykhachsanltql\\formgui\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E989D-E365-4EF6-8D92-CA1B4853DE35}|DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL.csproj|solutionrelative:doanquanlykhachsanltql\\formgui\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E989D-E365-4EF6-8D92-CA1B4853DE35}|DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL.csproj|c:\\users\\lehie\\pictures\\doanquanlykhachsanltql\\doanquanlykhachsanltql\\formgui\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3E989D-E365-4EF6-8D92-CA1B4853DE35}|DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL.csproj|solutionrelative:doanquanlykhachsanltql\\formgui\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E989D-E365-4EF6-8D92-CA1B4853DE35}|DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL.csproj|C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\doanquanlykhachsanltql\\formgui\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA3E989D-E365-4EF6-8D92-CA1B4853DE35}|DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL.csproj|solutionrelative:doanquanlykhachsanltql\\formgui\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3E989D-E365-4EF6-8D92-CA1B4853DE35}|DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL.csproj|C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\doanquanlykhachsanltql\\formgui\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA3E989D-E365-4EF6-8D92-CA1B4853DE35}|DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL.csproj|solutionrelative:doanquanlykhachsanltql\\formgui\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBieuDoDoanhThuTheoThang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL\\Report\\frmBieuDoDoanhThuTheoThang.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyKhachSanLTQL\\Report\\frmBieuDoDoanhThuTheoThang.cs",
+              "ToolTip": "C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL\\Report\\frmBieuDoDoanhThuTheoThang.cs [Design]",
+              "RelativeToolTip": "DoAnQuanLyKhachSanLTQL\\Report\\frmBieuDoDoanhThuTheoThang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T03:22:30.377Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HotelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL\\Data\\HotelDbContext.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyKhachSanLTQL\\Data\\HotelDbContext.cs",
+              "ToolTip": "C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL\\Data\\HotelDbContext.cs",
+              "RelativeToolTip": "DoAnQuanLyKhachSanLTQL\\Data\\HotelDbContext.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T03:07:31.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL\\Program.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyKhachSanLTQL\\Program.cs",
+              "ToolTip": "C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL\\Program.cs",
+              "RelativeToolTip": "DoAnQuanLyKhachSanLTQL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T03:02:51.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL\\FormGUI\\frmCustomer.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyKhachSanLTQL\\FormGUI\\frmCustomer.cs",
+              "ToolTip": "C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL\\FormGUI\\frmCustomer.cs",
+              "RelativeToolTip": "DoAnQuanLyKhachSanLTQL\\FormGUI\\frmCustomer.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAowO4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:34:53.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL\\FormGUI\\frmCustomer.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyKhachSanLTQL\\FormGUI\\frmCustomer.cs",
+              "ToolTip": "C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL\\FormGUI\\frmCustomer.cs [Design]",
+              "RelativeToolTip": "DoAnQuanLyKhachSanLTQL\\FormGUI\\frmCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:34:25.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rptThongKeDoanhThuTheoThang.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL\\Report\\rptThongKeDoanhThuTheoThang.rdlc",
+              "RelativeDocumentMoniker": "DoAnQuanLyKhachSanLTQL\\Report\\rptThongKeDoanhThuTheoThang.rdlc",
+              "ToolTip": "C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL\\Report\\rptThongKeDoanhThuTheoThang.rdlc [Design]",
+              "RelativeToolTip": "DoAnQuanLyKhachSanLTQL\\Report\\rptThongKeDoanhThuTheoThang.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-12T02:30:22.376Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmBooking.cs",
+              "DocumentMoniker": "C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL\\FormGUI\\frmBooking.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyKhachSanLTQL\\FormGUI\\frmBooking.cs",
+              "ToolTip": "C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL\\FormGUI\\frmBooking.cs",
+              "RelativeToolTip": "DoAnQuanLyKhachSanLTQL\\FormGUI\\frmBooking.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAowNEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:21:54.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmBooking.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL\\FormGUI\\frmBooking.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyKhachSanLTQL\\FormGUI\\frmBooking.cs",
+              "ToolTip": "C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL\\FormGUI\\frmBooking.cs [Design]",
+              "RelativeToolTip": "DoAnQuanLyKhachSanLTQL\\FormGUI\\frmBooking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:21:52.239Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMDI.cs",
+              "DocumentMoniker": "C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL\\FormGUI\\frmMDI.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyKhachSanLTQL\\FormGUI\\frmMDI.cs",
+              "ToolTip": "C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL\\FormGUI\\frmMDI.cs",
+              "RelativeToolTip": "DoAnQuanLyKhachSanLTQL\\FormGUI\\frmMDI.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowFgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:47:12.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMDI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL\\FormGUI\\frmMDI.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyKhachSanLTQL\\FormGUI\\frmMDI.cs",
+              "ToolTip": "C:\\Users\\lehie\\Pictures\\DoAnQuanLyKhachSanLTQL\\DoAnQuanLyKhachSanLTQL\\FormGUI\\frmMDI.cs [Design]",
+              "RelativeToolTip": "DoAnQuanLyKhachSanLTQL\\FormGUI\\frmMDI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T00:41:39.363Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1091,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
